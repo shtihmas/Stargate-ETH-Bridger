@@ -8,5 +8,3 @@
 ``` 
 python main.py
 ```
-
-🤝Say thx: `0x3972f6D89332493aFBA98370D4eC503c059adf18`
